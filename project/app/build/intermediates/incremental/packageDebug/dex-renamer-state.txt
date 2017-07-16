@@ -1,0 +1,7 @@
+#Sun Jul 16 21:53:39 CEST 2017
+base.0=C\:\\Users\\phandrana\\Documents\\GitHub\\BattleNote\\project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a905c28f0f64926d311cd43e12c9bcde34a3dc73
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\phandrana\\Documents\\GitHub\\BattleNote\\project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c66e7272e19e1b22aee6025312c02321d3cb2ee7\\classes.dex
+base.1=C\:\\Users\\phandrana\\Documents\\GitHub\\BattleNote\\project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c66e7272e19e1b22aee6025312c02321d3cb2ee7
+file.0=C\:\\Users\\phandrana\\Documents\\GitHub\\BattleNote\\project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a905c28f0f64926d311cd43e12c9bcde34a3dc73\\classes.dex

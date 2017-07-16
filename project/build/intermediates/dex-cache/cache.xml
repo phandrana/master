@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_e43968ac43d2daa47b2e2f79c95c96da100d40e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_e0e4944de0e89c7d5379ddc9e0be63931780a263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_3ba8b15184b721e40bb80cd51c6cb908f59a250c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_91085db56fe25c78728baa543d6e8ff769d39e4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27186e1d634931f8102f1d6fb622969dcf4d9fc8">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a905c28f0f64926d311cd43e12c9bcde34a3dc73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_bc16e88042f81485bf9e2c5d01853fdda02491df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_d5502c6be5c4438aa2bc44082b5c41a5a758855e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_05acad8026813eba41852607121e37b5fa4c2441\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8a57f9999ac2028dac427e00cd754d5fd09555e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_afb9a15eac912ebb299f2c5f1247fd55d24a0468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b715fb02542b66157d9a65985ba07cbcfb14105f">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c66e7272e19e1b22aee6025312c02321d3cb2ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\phandrana\Documents\GitHub\BattleNote\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_a430e8b5557143214e170e0225d16c53cdf8519f\classes.dex" />
+    </item>
+
+</items>
